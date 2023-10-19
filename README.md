@@ -4,7 +4,7 @@ _Rebecca E Green, Carole H Sudre, Charlotte Warren-Gash, Julia Butt, Tim Waterbo
 
 ---
 
-## Background
+## Background
 
 This repo contains analysis code for the preprint [Common infections and neuroimaging markers of dementia in three UK cohort studies](https://doi.org/10.1101/2023.07.12.23292538) - _Green et al_ 2023. 
 
