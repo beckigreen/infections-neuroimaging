@@ -37,6 +37,6 @@ This repo contains analysis code for the preprint [Common infections and neuroim
 --- 
 
 ### Project workflow
-<img src="docs/figure1.pdf" width="70%"/>
+<img src="docs/figure1.png" width="50%"/>
   
 ---
