@@ -14,18 +14,19 @@ This repo contains analysis code for the preprint [Common infections and neuroim
 .
 ├── README.md
 ├── scripts
-│   ├── 1.analysis_nshd.R
-│   ├── 1.analysis_sabre.R
-│   ├── 1.analysis_ukb.R
-│   ├── 2.analysis_main_ma.R
-│   ├── 3.apoe_interactions_nshd.R
-│   ├── 3.apoe_interactions_sabre.R
-│   ├── 3.apoe_interactions_ukb.R
-│   ├── 4.apoe_interactions_ma.R
-│   ├── 5.apoe_stratified_nshd.R
-│   ├── 5.apoe_stratified_sabre.R
-│   ├── 5.apoe_stratified_ukb.R
-│   ├── 6.apoe_stratified_ma.R
+|   ├── functions.R # user defined functions
+│   ├── 1.analysis_nshd.R # main serostatus/pbi/seroreactivity analyses (NSHD)
+│   ├── 1.analysis_sabre.R # main serostatus/pbi/seroreactivity analyses (SABRE)
+│   ├── 1.analysis_ukb.R # main serostatus/pbi/seroreactivity analyses (UKB)
+│   ├── 2.analysis_main_ma.R # meta-analyses of results from step 1
+│   ├── 3.apoe_interactions_nshd.R # testing apoe e2&e4 interactions (NSHD)
+│   ├── 3.apoe_interactions_sabre.R # testing apoe e2&e4 interactions (SABRE)
+│   ├── 3.apoe_interactions_ukb.R # testing apoe e2&e4 interactions (UKB)
+│   ├── 4.apoe_interactions_ma.R # meta-analyses of results from step 3
+│   ├── 5.apoe_stratified_nshd.R # stratification by e2 carrier status for findings from step 4 (NSHD)
+│   ├── 5.apoe_stratified_sabre.R # stratification by e2 carrier status for findings from step 4 (SABRE)
+│   ├── 5.apoe_stratified_ukb.R # stratification by e2 carrier status for findings from step 4 (UKB)
+│   ├── 6.apoe_stratified_ma.R # meta-analyses of results from step 5
 │   ├── 7.figure2.R
 │   └── 8.figure3.R
 ├── docs
