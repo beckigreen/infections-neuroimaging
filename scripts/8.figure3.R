@@ -7,6 +7,7 @@ filepath <- ""
 setwd(filepath)
 
 ## Load libraries ----
+library(cowplot)
 library(ggstance)
 library(grid)
 library(tidyverse)
