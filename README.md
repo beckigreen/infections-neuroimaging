@@ -1,4 +1,4 @@
-# [**Common infections and neuroimaging markers of dementia in three UK cohort studies**](https://doi.org/10.1101/2023.07.12.23292538)
+# [**Common infections and neuroimaging markers of dementia in three UK cohort studies - Green et al., 2024**](https://doi.org/10.1002/alz.13613)
 
 _Rebecca E Green, Carole H Sudre, Charlotte Warren-Gash, Julia Butt, Tim Waterboer, Alun D Hughes, Jonathan M Schott, Marcus Richards, Nish Chaturvedi, Dylan M Williams_
 
@@ -6,7 +6,7 @@ _Rebecca E Green, Carole H Sudre, Charlotte Warren-Gash, Julia Butt, Tim Waterbo
 
 ## Background
 
-This repo contains analysis code for the preprint [Common infections and neuroimaging markers of dementia in three UK cohort studies](https://doi.org/10.1101/2023.07.12.23292538) - _Green et al_ 2023. 
+This repo contains analysis code for the manuscript [Common infections and neuroimaging markers of dementia in three UK cohort studies](https://doi.org/10.1002/alz.13613) published in _Alzheimer's & Dementia_.
 
 #### Repo structure:
 
@@ -37,7 +37,23 @@ This repo contains analysis code for the preprint [Common infections and neuroim
 
 --- 
 
+### Abstract 
+**INTRODUCTION**
+We aimed to investigate associations between common infections and neuroimaging markers of dementia risk (brain volume, hippocampal volume, white matter lesions) across three population-based studies.
+
+**METHODS**
+We tested associations between serology measures (pathogen serostatus, cumulative burden, continuous antibody responses) and outcomes using linear regression, including adjustments for total intracranial volume and scanner/clinic information (basic model), age, sex, ethnicity, education, socioeconomic position, alcohol, body mass index, and smoking (fully adjusted model). Interactions between serology measures and apolipoprotein E (APOE) genotype were tested. Findings were meta-analysed across cohorts (N<sub>main</sub> = 2632; N<sub>APOE-interaction</sub> = 1810).
+
+**RESULTS**
+Seropositivity to John Cunningham virus associated with smaller brain volumes in basic models (β = −3.89 mL [−5.81, −1.97], P<sub>adjusted</sub> < 0.05); these were largely attenuated in fully adjusted models (β = −1.59 mL [−3.55, 0.36], P = 0.11). No other relationships were robust to multiple testing corrections and sensitivity analyses, but several suggestive associations were observed.
+
+**DISCUSSION**
+We did not find clear evidence for relationships between common infections and markers of dementia risk. Some suggestive findings warrant testing for replication.
+
+---
+
 ### Project workflow
 <img src="docs/figure1.png" width="50%"/>
-  
+
+
 ---
